@@ -1,0 +1,1 @@
+INSERT INTO developer(id, name, age) VALUES (2, 'Ada', 80);
